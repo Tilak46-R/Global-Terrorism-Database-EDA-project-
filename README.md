@@ -9,6 +9,8 @@ KEY FINDINGS:
           RANSOM AMOUNT,
           TOP TARGETED INSTITUTIONS, 
           PROPERTY DAMAGED OVER THE YEARS ETC
+
+
 CONCLUSION:
 "The attacks increasing sharply from 2000's and reached its peak at 2016, However it was low at 1970's".
 "The maximum number of casualties were seen in 2000's and reached its peak at 2016* ,However it was low at 1970's" and the number of people killed and wounded is 872892.0
