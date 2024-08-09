@@ -1,6 +1,9 @@
 # Global-Terrorism-Database-EDA-project-
 Global Terrorism Database (GTD) Exploratory Data Analysis (EDA)
 
+![tumblr_2bf713a09691db12adae4551373d9b03_ae61768f_1280](https://github.com/user-attachments/assets/21651d4c-fab8-4504-83ef-f239a2976d3b)
+
+
 **Introduction**
 Welcome to the Global Terrorism Database (GTD) Exploratory Data Analysis (EDA) project! This repository contains code and documentation for analyzing and exploring the Global Terrorism Database, which is a comprehensive database on terrorist events around the world from 1970 through 2017.
 
